@@ -1,7 +1,7 @@
 # MITxPro
 
 ## Name  
-ATM Simulation
+ATM Simulation 2
 
 ## Description  
 This is my 2nd app in React, it's a basic ATM simulation that let you deposit and withdraw money while keeping track of the balance
